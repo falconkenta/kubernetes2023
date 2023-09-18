@@ -49,7 +49,7 @@ a{
 }
 
 .hero{
-	background-image: url("img/cover.jpg");
+	background-image: url("cover.jpg");
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
